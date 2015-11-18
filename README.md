@@ -10,7 +10,27 @@ ____ Audio_ List ____
 3.1 (((IN PROGRESS))) Currently Writing application stories.
 4.0 Tumblr and tomes.co (((POP.co))) versions.
 
+5.0 (((IN PROGRESS)))  Organize the 5 stories by type and order.
 
+
+
+1 From Body to Light
+Mindfully Guided
+
+2 Clairvoyant Truth
+Focused Objective
+
+3 Old Trends
+Reflective Gateway
+
+4 Glorified Aura
+Heart Centered Alignment
+
+5 Thickening Transcendence
+Visual Perception
+
+Added to github.io as tomes.co
+tomes.co added to peytoncaseria.com as project.
 
 
 
