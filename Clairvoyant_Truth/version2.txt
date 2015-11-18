@@ -1,3 +1,6 @@
+0% Type Checked
+0% Speech Checked
+Focused
 Clairvoyant Truth:
 
 speech concept outline for fixed pronunciations v 2.1.0
