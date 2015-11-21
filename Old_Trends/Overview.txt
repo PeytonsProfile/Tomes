@@ -1,0 +1,10 @@
+Steps needed to accomplish individual content M.V.P.
+
+1. versions have more detailed storylines.
+
+2. Continue speech output w/ current builtin  computer voice settings. By checking stories content in blocks.
+
+3. make read along videos, and book content inside a highlight text box and a play w/ speech how to video.
+
+
+purpose of videos is to polish out read alongs
