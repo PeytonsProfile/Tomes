@@ -1,0 +1,36 @@
+Noted. Versions have more detailed storylines, after each major content edit undergoing speech blocks mark as edited, uncheck or check after additions.
+
+
+purpose of videos is to polish out read alongs, Currently unfixable automated voice pronunciation on certain words. Partial fixes by changing the spelling, to fix this in a read along Automated voice bubbles needs to read a different script than the one on the screen for the user to read.
+
+Potential solution, user plays the audio file, either embedded youtube video or an audio file with seggregated verions 50% 100% 150% 200% Keep the lengths of videos short.
+
+Potential solution, allow the user to click an image of the book page to play.
+
+
+First to Last quality test, Rules to inline progression.
+Overall Goals#
+1. Speech recognition blocks, on current automated voice speed of 100%
+
+  2. Calibrate a aritificial voice to the correlating speed,
+     Googles new addition to youtubes video to 25% to 200% playspeed.
+Ex. Voice overlay of Bubbles speaks 175% fast
+    Youtube video is understood being played at 175% fast M.V.P.
+    
+    3. Personally read out stories, for read along.
+    3.1 Smooth out background music for speeds of 25%.
+    3.2 Final Hypnotically Speaking Revision. 
+    3.3  Make sure the background music correlates with the hypnotical revision.
+    
+    
+      4. Add a text to speech output setting in hypnotical revision.
+      
+      5. All other potential solutions are listed at the top.
+
+
+
+
+
+Tag Index,
+
+
