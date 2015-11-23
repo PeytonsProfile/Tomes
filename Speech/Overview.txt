@@ -1,2 +1,9 @@
-Speech ([ testing, list, item, paused, read, out ])
+Quick analysis,
+
+Speech ([ testing, list, item, paused, read, out ]) test out
+More proper, paused between speech and testing
+testing speech out.
+
 Speech testing, list, item, paused, read, out
+
+
