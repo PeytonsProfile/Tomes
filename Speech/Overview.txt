@@ -1,0 +1,2 @@
+Speech ([ testing, list, item, paused, read, out ])
+Speech testing, list, item, paused, read, out
