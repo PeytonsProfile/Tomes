@@ -1,6 +1,10 @@
 Book 1 in 5 part series
 Mindfulness,
-0% Content Type Checked.
+10% Content Type Checked.
+Guided,
+Kundalini,
+Focused,
+Visual,
 
 version 2.1.0 reed-along edition
 Block 0
@@ -34,8 +38,8 @@ it'll not be missed on the darkest of nights.
 
 block 4 Checked 100%
 
-Universe, Ouh? Universe is just another mirror parallel mirror around us all,
-
+Universe, Owe Universe is just another mirror parallel mirror around us all,
+Block 5.1 changed ouh? to owe for speech calibration
 using both light and dark to cast our inner essence back at us.
 
 We see in another Concave and Convex format allowing optimal focus,
