@@ -1,0 +1,76 @@
+Book 6 of ?
+Content type, 
+Kundalini, Visual, Reflective.
+Matter of illumination.
+
+Story 1. Incognitive Continuum
+Written by Peyton Caseria
+
+I once followed the fuel line to my dark-matter fueled soul and it was glorious, I decade passed as I encountered all of my richest desires and then somehow a guardian angel saved me from eternal despair.
+
+A trail of breadcrumbs began to lead me into another realm one that began to show why everything was so magical and then eventually dull, the inner-gaze can only be broken from within and only with true will can you break away the artificial mirror placed as a fail-safe.
+
+After countless realms logic formed, either the lazy side or the productive side would emerge, and encase my mortal body and mind in-which levitation is achieved, the mindful anchor rises and pulls you above. If the tether snaps because you resist by consistent use of the cascading darkness of inner desire you break the only escape. The portal out is lost until you are consumed and rewritten as for all serpents even the mythically good ones must feed.
+
+Without Illuminating my aura throughout all time, space would've hidden me and left me forgotten to all whom I have loved and visa versa. My lamplight was activated by a set time, before I decided to travel the unforeseen dark side of my minds curious moon.
+
+In order for two objects to equally balance two weighted objects must match, but what if the darkness was weight and light was zero gravity, in which your mind drifts within the bloodily flow that transcends all, transpires against the purpose we seek. We create goals to gain the equilibrial balance that actives a chemically encoded psychological aura whilst we attempt to bask in the euphoria we are humbled by.
+
+what if the enlightening side of said balance had the capability to arise from underneath using immense effort to tip the laziness out of the vial of body and light?
+
+
+## for app
+
+Elements holds each individual X - factor
+Basic_Five
+Body_Traits
+Mind_Traits
+Hybrid_Variants
+Senses
+Natural_Elements
+Desc. Utilized to reach  :
+
+Body_Traits pairs_to Mind_Traits, Belongs_to Elements
+Cold Stone
+
+Mind_Traits pairs_to Body_Traits, Belongs_to Elements
+Visualization Remembered by Scent ##
+
+tags| Basic_Five | Belongs_to Elements, Inherits_from body_and_mind_traits
+(FO) Focus ##(FO) 
+(MI) Mindful ##(MI) 
+(VI) Visual ##(VI) 
+(RE) Reflect ##(RE) 
+(HC) Heart Center ##(HC) 
+
+
+
+
+Hybrid Variants of Basic Five periodic table of cognitive elements:
+Hybrid_Variants Belongs_to Elements, Inherits_from body_and_mind_traits
+(KU) Kundalini 
+(OO) Object Oriented (FO) ##
+(GU) Guided (FO)
+(RY) Rythm (RE)
+(SP) Spiritual
+
+Senses Inherits_from Natural_Elements
+Belongs_to Elements
+Layer 1:
+Sight ( Visual Insight )
++
+Hearing ( Reflective ) = 
+
+Taste   (Focused) 
+Scent   ( Mindfulness ) 
+Touch   ( Heart Centered ) {KU|RY[OO] | }
+
+
+Natural_Elements belongs_to Elements
+Earth
+Water
+Fire
+Air
+
+Search Story types by Abbreviated tags
+
