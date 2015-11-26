@@ -74,3 +74,4 @@ Air
 
 Search Story types by Abbreviated tags
 
+Write in ruby, this file is just content staging.
