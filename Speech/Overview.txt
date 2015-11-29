@@ -8,3 +8,4 @@ Params add extra delays between commas,
 Speech testing, list, item, paused, read, out
 pronunciates fast and doesn't include testing into the list of objects.
 
+Speech test all titles
