@@ -48,7 +48,11 @@ returns: stories containing day,FO,HC,RE inside
 
 
 A.A. - Alluring Aura
-T.T.T.T. Toxic To The Touch
+T.T.T.T. - Toxic To The Touch
+G.U. - Gassy Universe
+
+
+
 B.B. Bright Beacon
 
 C.C. 
