@@ -1,6 +1,6 @@
 
 Block - 1  Liquid Kingdom (L.K.)
-"[[("Li")], [("iQ")], [(UI), (ID)], [("K, I, N, G")], [(D), (O), (M)]]"
+"{[("Liq","uid")]}", {[("qK",ING""DOM")]}"
 iq 
 ui
 id
