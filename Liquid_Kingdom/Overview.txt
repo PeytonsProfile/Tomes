@@ -1,6 +1,6 @@
 
-Block - 1  Liquid Kingdom (L.K.)
-"{[("Liq","uid")]}", {[("qK",ING""DOM")]}"
+BLOCK -1  Liquid Kingdom (L.K.)
+"{[("Liq","uid", "KING","DOM")]}"
 iq 
 ui
 id
@@ -14,3 +14,4 @@ layer 4.1
 ##
 Speech on Genre output
 
+BLOCK 0
