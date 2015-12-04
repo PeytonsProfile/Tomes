@@ -1,6 +1,6 @@
 
 BLOCK -1  Liquid Kingdom (L.K.)
-"{[("Liq","uid", "KING","DOM")]}"
+"{[("Liq","uid", || "KING","DOM")]}"
 
 |L| IQUI, |"D,K"| ING, |D|OM
 
