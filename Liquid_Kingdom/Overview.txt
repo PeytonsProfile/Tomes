@@ -1,5 +1,5 @@
 Liquid Kingdom (L.K.)
-[[(Li)], [(iQ)], [(UI), (ID)], [(K), (I)], [(N), (G)], [(D), (O), (M)]]
+[[("Li")], [("iQ")], [(UI), (ID)], [(K), (I)], [(N), (G)], [(D), (O), (M)]]
 iq 
 ui
 id
