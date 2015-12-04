@@ -1,14 +1,19 @@
 
 BLOCK -1  Liquid Kingdom (L.K.)
-"{[("Liq","uid", || "KING","DOM")]}"
+Pronunciated  fluently speed check 1.0 "{[("Liq","uid", || "KING","DOM")]}"
+
+{[("|L|'i'|QU|'i'|DK|'i'|NGD|'om'|")]}
+|C||'i'|, C||'i'|, C||'i'|, |'i'|
+
+|", || "|K|I|NG|","D|OM")]}"
 
 |L| IQUI, |"D,K"| ING, |D|OM
 
 
-
-
-
-|| = |SILENT/LOW PITCH C-cal|
+Full_Verse |C||'i'|, C||'i'|, C||'i'|, |'i'|
+|'om'| = parse end
+|'i'| = parse
+|C| = |SILENT/LOW PITCH C-cal|
 http://www.audiocheck.net/testtones_subwooferharmonicdistortion.php
 iq 
 ui
