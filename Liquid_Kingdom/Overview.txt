@@ -1,6 +1,15 @@
 
 BLOCK -1  Liquid Kingdom (L.K.)
 "{[("Liq","uid", "KING","DOM")]}"
+
+|L| IQUI, |"D,K"| ING, |D|OM
+
+
+
+
+
+|| = |SILENT/LOW PITCH C-cal|
+http://www.audiocheck.net/testtones_subwooferharmonicdistortion.php
 iq 
 ui
 id
