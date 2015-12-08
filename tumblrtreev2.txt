@@ -1,0 +1,3 @@
+Tumblr tree v2 is going to have content auto posted to it,built around new content beng added by post, allow the user to search content tags, types such as images, videos.
+
+Also used to pull tumblr users to the tumblr version and then streamed to the full VMT. 
