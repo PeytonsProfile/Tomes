@@ -1,3 +1,9 @@
-Tumblr tree v2 is going to have content auto posted to it,built around new content beng added by post, allow the user to search content tags, types such as images, videos.
+Tumblr tree v2 is going to have content auto posted to it,built around new content being added by post, allow the user to search content tags, types such as images, videos.
 
-Also used to pull tumblr users to the tumblr version and then streamed to the full VMT. 
+Also used to pull tumblr users to the tumblr version and then streamed to the full VMT network, including videos, radio, and etc.
+
+Will also have the ToA as a navbar link to make it easier to understand the stories pinned, posted, or archived for regular sharing / daily in invervals.
+
+Tumblr has a post scheduler, look into a tumblr post / content iframer script of a sort, until mechanize can be used to cycle content daily.
+
+Look into using mechanize to cycle posts to fb, tumblr, twitter, and custom VMT blog.
