@@ -68,7 +68,7 @@ XX = "Extant_Exception"
 YY = "Yuletide_Yogi"
 ZZ = "Zen_Zeal"
 
-
+#moving content into an application to see if I can get the files to open when the array grabs a correlated file at random.
 
 
 
