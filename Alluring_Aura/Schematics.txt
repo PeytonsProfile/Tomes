@@ -50,3 +50,5 @@ XX
 YY
 
 ZZ
+
+add the initial bizzfuzz function for randomization.
