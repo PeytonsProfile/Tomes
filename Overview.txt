@@ -12,3 +12,5 @@ Liquid Tone
 Tripnology
 Sound Cage
 Desired Adaption
+
+add in hypnotrips based on synonym relations.
