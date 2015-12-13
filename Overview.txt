@@ -14,3 +14,5 @@ Sound Cage
 Desired Adaption
 
 add in hypnotrips based on synonym relations.
+
+Remember to use suggestive trigger words charged by correlated titles.
