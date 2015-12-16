@@ -16,3 +16,5 @@ Desired Adaption
 add in hypnotrips based on synonym relations.
 
 Remember to use suggestive trigger words charged by correlated titles.
+
+All titles need to be descriptive, open ended and visually guidable.
