@@ -132,7 +132,7 @@
         puts 'Zen Zeal'
         ZZ = gets.chomp.to_i
         ZZ        
-      end
+      end–
       def 
 end
 
@@ -148,7 +148,35 @@ def randomizer
     myArray = ["AA", "BB", "CC", "DD", "EE", "FF", "GG", "HH", "II", "JJ", "KK", "LL", "MM", "NN", "OO", "PP", "QQ", "RR", "SS", "TT", "UU", "VV", "WW", "XX", "YY", "ZZ"]
 item = myArray[rand(myArray.length)]
 
-toaArray = ["Alluring_Aura", "Bright_Beacon", "Cosmic_Concoction", "Dim_Dawn", "Elemental_Enchantment", "Frequent_Form", "Golden_Grove", "Hollow_Hum", "Invisioning_Impact", "Jades_in_Jungles", "Keen_Kindness", "Lucid_Levitation", "Mellow_Mantra", "Number_Nine", "Own_my_Omen", "Polar_Purge", "Quantum_Quake", "Relaxing_Rhythm", "Sunshade_Sensei", "Tilting_Tree", "Usual_Underdog", "Vivid_Visions", "Wind_on_Water", "Extant_Exception", "Yuletide_Yogi", "Zen_Zeal"]
+toaArray = ["Alluring_Aura", "Shallow_Cove", 
+ "Bright_Beacon",
+  "Cosmic_Concoction",
+   "Dim_Dawn",
+ "Elemental_Enchantment",
+  "Frequent_Form", 
+  "Golden_Grove",
+   "Hollow_Hum",
+    "Invisioning_Impact",
+
+ "Jades_in_Jungles", 
+ "Keen_Kindness",
+  "Lucid_Levitation", 
+  "Mellow_Mantra",
+   "Number_Nine",
+    "Own_my_Omen",
+
+  "Polar_Purge",
+   "Quantum_Quake", 
+   "Relaxing_Rhythm",
+    "Sunshade_Sensei", 
+    "Tilting_Tree", 
+    "Usual_Underdog",
+     "Vivid_Visions",
+
+   "Wind_on_Water",
+    "Extant_Exception",
+     "Yuletide_Yogi",
+      "Zen_Zeal"]
 toaitem = toaArray[rand(toaArray.length)]
 
 AA = "Alluring_Aura"
@@ -208,3 +236,6 @@ end
 end
 
 question
+
+
+/## Shallow_Cove type defined as cave of cove sublime A in O pronunciation.
