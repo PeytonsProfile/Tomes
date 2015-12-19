@@ -133,19 +133,28 @@
         ZZ = gets.chomp.to_i
         ZZ        
       end
-      def 
+      #// UNFINISHED add files
+      def INC
+        puts "Incognitive Continuum"
+        INC = gets.chomp.to_i
+        INC
+      end
+      def VVV
+        puts "vivid vim"
+      VVV = gets.chomp.to_i
+      end
 end
 
 
 def randomizer
-  puts 'Would you like to [randomize] the Tomes?'
+  puts 'Would you like to interpolate with the Tomes?'
 
   operator = gets.chomp
 
   if operator == 'randomize'
     answer = puts.toaArray.rand
 
-    myArray = ["AA", "BB", "CC", "DD", "EE", "FF", "GG", "HH", "II", "JJ", "KK", "LL", "MM", "NN", "OO", "PP", "QQ", "RR", "SS", "TT", "UU", "VV", "WW", "XX", "YY", "ZZ"]
+    myArray = ["AA", "BB", "CC", "DD", "EE", "FF", "GG", "HH", "II", "JJ", "KK", "LL", "MM", "NN", "OO", "PP", "QQ", "RR", "SS", "TT", "UU", "VV", "WW", "XX", "YY", "ZZ", "VVV", "INC"]
 item = myArray[rand(myArray.length)]
 
 toaArray = ["Alluring_Aura", "Bright_Beacon", "Cosmic_Concoction", "Dim_Dawn", "Elemental_Enchantment", "Frequent_Form", "Golden_Grove", "Hollow_Hum", "Invisioning_Impact", "Jades_in_Jungles", "Keen_Kindness", "Lucid_Levitation", "Mellow_Mantra", "Number_Nine", "Own_my_Omen", "Polar_Purge", "Quantum_Quake", "Relaxing_Rhythm", "Sunshade_Sensei", "Tilting_Tree", "Usual_Underdog", "Vivid_Visions", "Wind_on_Water", "Extant_Exception", "Yuletide_Yogi", "Zen_Zeal"]
@@ -178,9 +187,9 @@ XX = "Extant_Exception"
 YY = "Yuletide_Yogi"
 ZZ = "Zen_Zeal"
 
-
+#// concatenate = video stream archive
 def question
-puts 'Would you like to [add] or [subtract], [multiply] or [divide]?'
+puts 'Would you like to [concatenate] or [randomize], [multiply] or [divide]?'
 
 operator = gets.chomp
 
