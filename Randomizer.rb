@@ -142,12 +142,16 @@
       def VVV
         puts "vivid vim"
       VVV = gets.chomp.to_i
+      VVV
+      end
+      def Interpolate
+        puts " When you interpolate what you really need to know about on the mainframe on hybrid sundays you'll never get to know because of our randomizer and concatenate"
       end
 end
 
 
 def randomizer
-  puts 'Would you like to interpolate with the Tomes?'
+  puts 'Would you like to Interpolate with the Tomes?'
 
   operator = gets.chomp
 
