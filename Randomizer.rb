@@ -132,19 +132,41 @@
         puts 'Zen Zeal'
         ZZ = gets.chomp.to_i
         ZZ        
+<<<<<<< HEAD
       end–
       def 
+||||||| merged common ancestors
+      end
+      def 
+=======
+      end
+      #// UNFINISHED add files
+      def INC
+        puts "Incognitive Continuum"
+        INC = gets.chomp.to_i
+        INC
+      end
+      def VVV
+        puts "vivid vim"
+      VVV = gets.chomp.to_i
+      VVV
+      end
+      def Interpolate
+        puts " When you interpolate what you really need to know about on the mainframe on hybrid sundays you'll never get to know because of our randomizer and concatenate"
+      end
+>>>>>>> origin/master
 end
 
 
 def randomizer
-  puts 'Would you like to [randomize] the Tomes?'
+  puts 'Would you like to Interpolate with the Tomes?'
 
   operator = gets.chomp
 
   if operator == 'randomize'
     answer = puts.toaArray.rand
 
+<<<<<<< HEAD
     myArray = 
     [ "AA", 'Alluring_Aura', 'Alpha_Atom' 
        "BB", 'Bright_Beacon', 'Binding_Blend'
@@ -172,6 +194,11 @@ def randomizer
                             "XX", 'Extant_Exception'
                              "YY", 'Yuletide_Yogi'
                               "ZZ", 'Zen_Zeal' ]
+||||||| merged common ancestors
+    myArray = ["AA", "BB", "CC", "DD", "EE", "FF", "GG", "HH", "II", "JJ", "KK", "LL", "MM", "NN", "OO", "PP", "QQ", "RR", "SS", "TT", "UU", "VV", "WW", "XX", "YY", "ZZ"]
+=======
+    myArray = ["AA", "BB", "CC", "DD", "EE", "FF", "GG", "HH", "II", "JJ", "KK", "LL", "MM", "NN", "OO", "PP", "QQ", "RR", "SS", "TT", "UU", "VV", "WW", "XX", "YY", "ZZ", "VVV", "INC"]
+>>>>>>> origin/master
 item = myArray[rand(myArray.length)]
 
 toaArray = ["Alluring_Aura", "Shallow_Cove", 
@@ -232,9 +259,9 @@ XX = "Extant_Exception"
 YY = "Yuletide_Yogi"
 ZZ = "Zen_Zeal"
 
-
+#// concatenate = video stream archive
 def question
-puts 'Would you like to [add] or [subtract], [multiply] or [divide]?'
+puts 'Would you like to [concatenate] or [randomize], [multiply] or [divide]?'
 
 operator = gets.chomp
 

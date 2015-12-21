@@ -34,6 +34,7 @@ add in hypnotrips based on synonym relations.
 Remember to use suggestive trigger words charged by correlated titles.
 
 All titles need to be descriptive, open ended and visually guidable.
+<<<<<<< HEAD
 
 for speech in vidlinks on tomes.co v2.1.0
 
@@ -59,3 +60,33 @@ Each title is charged by all (Vi,Fo,Re,Mi) to trigger the HC layer.
 
 content types above but not limited to.
 
+||||||| merged common ancestors
+=======
+
+for speech in vidlinks on tomes.co v2.1.0
+
+Logbook of Mythic thoughts, insights from a being.
+
+
+
+Correlate vids to trance to suggestive thoughts to words, titles, triggers, 
+
+Aa - Zz
+Allows all letters to charge, set sunday for the hypnoswap for sublime vids to deep correlated trance.
+
+Aa -Zz
+Adds to misc album and song titles.
+concept overview is omnicharge subconscious.
+
+Vi vids
+Fo sound
+Re trigger words
+Mi vacant peace / 3 second pause
+
+Each title is charged by all (Vi,Fo,Re,Mi) to trigger the HC layer.
+
+content types above but not limited to.
+
+added a new array element outline, still need to nest an array of story titles with nested chapters sublime in said category another example is a word not starting with the same type of letters but adds passing similarities in the brain for enhanced marketing and scheduled pre tumblr post pushes. overall goal of 1 every hour, inside targeted timezones of user audience, so timeszones for united king, united states, indonesia, china, russia, global audience still might be easier to just do a new post every other hour on the hour total needed without fillers preferred! is 4380 yearly unique posts, post count of un gitted content trigger files on yearly repeat with new correlated content"
+[master 14a6bf0] added a new array element outline, still need to nest an array of story titles with nested chapters sublime in said category another example is a word not starting with the same type of letters but adds passing similarities in the brain for enhanced marketing and scheduled pre tumblr post pushes. overall goal of 1 every hour, inside targeted timezones of user audience, so timeszones for united king, united states, indonesia, china, russia, global audience still might be easier to just do a new post every other hour on the hour total needed without fillers preferred! is 4380 yearly unique posts, post count of un gitted content trigger files on yearly repeat with new correlated content
+>>>>>>> origin/master

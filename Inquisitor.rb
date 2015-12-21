@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #// convertedFromJavascriptTOruby
 
 
@@ -39,3 +40,7 @@ II
 UU
 WW
 YY
+||||||| merged common ancestors
+=======
+
+>>>>>>> origin/master
