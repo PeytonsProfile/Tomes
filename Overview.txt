@@ -11,6 +11,15 @@ Almost as if you are the one writing them.
 __
 
 
+This entire story is in check, I wanted to ask you if you could help me out with it.  I built an array that I want to randomly open, a correlated webpage. The correlated webpage will need to have the models and controllers setup to run the randomizer function on the main navbar, there where also be the interpolate function on the navbar, which will follow the stream of youtube autoplay content only which is randomly generated as well, the difference is the randomizer includes all webpages such as quizzes, the Table of Alignment which forwards to the quiz based on the initial user choice, which is the array content.  I need an array, that holds 27 nested arrays that can continue to have content organized inside them.  this code is working for part of what I need, 
+
+
+
+ myArray = ["AA", "BB", "CC", "DD", "EE", "FF", "GG", "HH", "II", "JJ", "KK", "LL", "MM", "NN", "OO", "PP", "QQ", "RR", "SS", "TT", "UU", "VV", "WW", "XX", "YY", "ZZ"] item = myArray[rand(myArray.length)]  toaArray = ["Alluring_Aura", "Bright_Beacon", "Cosmic_Concoction", "Dim_Dawn", "Elemental_Enchantment", "Frequent_Form", "Golden_Grove", "Hollow_Hum", "Invisioning_Impact", "Jades_in_Jungles", "Keen_Kindness", "Lucid_Levitation", "Mellow_Mantra", "Number_Nine", "Own_my_Omen", "Polar_Purge", "Quantum_Quake", "Relaxing_Rhythm", "Sunshade_Sensei", "Tilting_Tree", "Usual_Underdog", "Vivid_Visions", "Wind_on_Water", "Extant_Exception", "Yuletide_Yogi", "Zen_Zeal"] toaitem = toaArray[rand(toaArray.length)]  AA = "Alluring_Aura" BB = "Bright_Beacon" CC = "Cosmic_Concoction" DD = "Dim_Dawn" EE = "Elemental_Enchantment" FF = "Frequent_Form" GG = "Golden_Grove" HH = "Hollow_Hum" II = "Invisioning_Impact" JJ = "Jades_in_Jungles" KK = "Keen_Kindness", LL = "Lucid_Levitation" MM = "Mellow_Mantra" NN = "Number_Nine" OO = "Own_my_Omen" PP = "Polar_Purge" QQ = "Quantum_Quake" RR = "Relaxing_Rhythm" SS = "Sunshade_Sensei" TT = "Tilting_Tree" UU = "Usual_Underdog" VV = "Vivid_Visions" WW = "Wind_on_Water" XX = "Extant_Exception" YY = "Yuletide_Yogi" ZZ = "Zen_Zeal"  
+
+
+  I also have a the next version in progress under the randomizer.rb file, in the appstory this array needs to nest 27 individual arrays, 26 are correlated to the alphabet letters and the 27th needs to be the randomizer function, after that is done the Interpolate function is the same code loaded with the randomizer it is just a different way of accessing the archive loaded with different youtube autoplay and video streaming.  Needs to be operating on the ToA.html (A.K.A.) Table of Alignment which the wireframes look like a periodic table of elements essentially until all the content is staged and columns are manageable with a on hover name title of the abbreviatins A.A.. each Classical title AA - ZZ is correlated and indexed and accessible to the quiz they generated, each quiz is either  1 of 5 base types (VI,FO,RE,HC,MI) or conjoined with hybrid types under the disconfigured classical album title subliminator.
+
 
 Story outlining of MVC, 
 
