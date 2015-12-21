@@ -145,7 +145,33 @@ def randomizer
   if operator == 'randomize'
     answer = puts.toaArray.rand
 
-    myArray = ["AA", "BB", "CC", "DD", "EE", "FF", "GG", "HH", "II", "JJ", "KK", "LL", "MM", "NN", "OO", "PP", "QQ", "RR", "SS", "TT", "UU", "VV", "WW", "XX", "YY", "ZZ"]
+    myArray = 
+    [ "AA", 'Alluring_Aura', 'Alpha_Atom' 
+       "BB", 'Bright_Beacon', 'Binding_Blend'
+        "CC", 'Cosmic_Concoction', 'Calibration_Equation'
+         "DD", 'Dim_Dawn', 'Dark_Drag',
+          "EE", 'Elemental_Enchantment', 'Elusive_Equality'
+           "FF", 'Frequent_Form', 'Fountain_Finite'
+            "GG", 'Golden_Grove', 'Glowing_Gigabit'
+             "HH", 'Hollow_Hum',  'Huntress_Hallow'
+              "II", 'Invisioning_Impact', 'Intellectual_Inquision'
+               "JJ", 'Jades_in_Jungles', 
+                "KK", 'Keen_Kindness'
+                 "LL", 'Lucid_Levitation'
+                  "MM", 'Mellow_Mantra'
+                   "NN", 'Number_Nine'
+                    "OO", 'Own_my_Omen'
+                    "PP", 'Polar_Purge'
+                     "QQ", 'Quantum_Quake'
+                      "RR", 'Relaxing_Rhythm'
+                       "SS", 'Sunshade_Sensei'
+                        "TT", 'Tilting_Tree'
+                         "UU", 'Usual_Underdog'
+                          "VV", 'Vivid_Visions'
+                           "WW", 'Wind_on_Water'
+                            "XX", 'Extant_Exception'
+                             "YY", 'Yuletide_Yogi'
+                              "ZZ", 'Zen_Zeal' ]
 item = myArray[rand(myArray.length)]
 
 toaArray = ["Alluring_Aura", "Shallow_Cove", 
