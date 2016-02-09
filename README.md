@@ -32,5 +32,32 @@ Visual Perception
 Added to github.io as tomes.co
 tomes.co added to peytoncaseria.com as project.
 
+(((make content idea of randomizer on hold: v2 now)))
+
+do I dev on local to test or wtf? I think js bin to get the code working and then implement a db with compiled code, use CDN on jsbin to test. push to heroku only when the code is structured w/cdn and then start same method of pdf download, copy paste code and zip and archive only open a duplicate, save file to phone and laptop
+
+remember to Add download pdfs to server, Make API for PDFS v1
+
+node db drop or wipe the app
+
+finish accordion finish modal
+
+add content in modal and run a 3 / mo SEO modal check for content rendered
+
+Run 1 day analysis, and 3 day ({Target keywords.}]
+
+add [Zen], pull to next file, as [Pass]. Jump through To second AA as 1.1 on accordion? or read more on modal?
+
+Prioritize, Pass is not a necessity, look into adding image to modal as table of contents, and suggest command+F to find.
+
+fit 20k words, with 5K oversights on each as the Modal Overview 26x200 5.2k char
+
+20k is target size fit recheck sources
+
+look into mocha on server to client testing
+
+use only 1 Jquery install try without CDN, Polish file By adding ONLY! modal and accordion file.
+
+Use seperate nav bar file look into Mobile side nav, and make sure to import said files without CDN
 
 
