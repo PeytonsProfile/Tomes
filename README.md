@@ -12,6 +12,8 @@ ____ Audio_ List ____
 
 5.0 (((IN PROGRESS)))  Organize the 5 stories by type and order.
 
+Have users beta test videos by emailing the video link and Times of mispronunciation.
+
 
 
 1 From Body to Light
@@ -32,6 +34,18 @@ Visual Perception
 Added to github.io as tomes.co
 tomes.co added to peytoncaseria.com as project.
 
+1. Make 26 PDFS, compile into 1.
+2. Add correlating download links.
+3. Add sticky Accordion navbar, landing page has to be a login, or a signup login button needs to be on the header navbar, after logged in swaps to signout.
+4. Sticky navfooter [vids][Inquisitor][ToA][Donate]
+5. Make 26 Videos, Add correlating vid links, youtube embedded page.
+6. Make Custom Banners, under Modals AA 1.0, 1.1 and etc.
+7. Make custom Homepage banner.
+8. Add google voice page search on headnav bar.
+9. Inquisitor, v1 predicts and suggests which story the user should view.
+MVP ^^^
+
+ v2 API needs to store data, so an account is needed? merge v1 & v2
 
 Filling out accordion and modal information for basic Classical ex. A.A. will add modal for A.A. additions, and seperate PDF download for each file, along with a compiled download all PDF
 (((make content idea of randomizer on hold: v2 now)))
