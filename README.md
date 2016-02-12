@@ -46,7 +46,7 @@ tomes.co added to peytoncaseria.com as project.
 MVP ^^^
 
  v2 API needs to store data, so an account is needed? merge v1 & v2
-
+10. Look into dynamic filtering for MI, FO, HC, VI, RE
 Filling out accordion and modal information for basic Classical ex. A.A. will add modal for A.A. additions, and seperate PDF download for each file, along with a compiled download all PDF
 (((make content idea of randomizer on hold: v2 now)))
 
