@@ -34,9 +34,10 @@ Visual Perception
 Added to github.io as tomes.co
 tomes.co added to peytoncaseria.com as project.
 
-1. Make 26 PDFS, compile into 1.
-2. Add correlating download links.
-3. Add sticky Accordion navbar, landing page has to be a login, or a signup login button needs to be on the header navbar, after logged in swaps to signout.
+
+1. Make 26 PDFS, compile into 1. 2 PDFs left
+2. Add correlating download links. Almost ready to make Download links
+3. Add sticky Accordion navbar, landing page has to be a login, or a signup login button needs to be on the header navbar, after logged in swaps to signout. Launching without logins first
 4. Sticky navfooter [vids][Inquisitor][ToA][Donate]
 5. Make 26 Videos, Add correlating vid links, youtube embedded page.
 6. Make Custom Banners, under Modals AA 1.0, 1.1 and etc.
