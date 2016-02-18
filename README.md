@@ -39,7 +39,7 @@ tomes.co added to peytoncaseria.com as project.
 2. Add correlating download links. Via HTML OF .PDF FILES TO BUTTONS
 2.1 ADD beta notice to read out videos to get users to polish typos, not understandable text to speech and content additions. Let them know how to polish a video, or they can send a time link of when the youtube video needs to be fixed.
 
-3. Add sticky Accordion navbar, landing page has to be a login, or a signup login button needs to be on the header navbar, after logged in swaps to signout. Launching without logins first
+3. make banners, need to draw up customs.
 4. Sticky navfooter [vids][Inquisitor][ToA][Donate]
 5. Make 26 Videos, Add correlating vid links, youtube embedded page.
 6. Make Custom Banners, under Modals AA 1.0, 1.1 and etc.
