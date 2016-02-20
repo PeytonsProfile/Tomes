@@ -35,17 +35,19 @@ Added to github.io as tomes.co
 tomes.co added to peytoncaseria.com as project.
 
 
-1. PDFS finoshed
-2. Add correlating download links. Via HTML OF .PDF FILES TO BUTTONS
+1. PDFS finished
+2. 
+2. Add correlating download links. Finished
 2.1 ADD beta notice to read out videos to get users to polish typos, not understandable text to speech and content additions. Let them know how to polish a video, or they can send a time link of when the youtube video needs to be fixed.
+2.2 Do Audio readout to youtube for music quality, add download link in modal, and follow to video link.
 
-3. make banners, need to draw up customs.
-4. Sticky navfooter [vids][Inquisitor][ToA][Donate]
-5. Make 26 Videos, Add correlating vid links, youtube embedded page.
+3. make banners, need to draw up custom backgrounds, not words and letters.
+4. nav Header [vids][Inquisitor][ToC][Contributor] <<< for BetaTesters, Partially Finished
+5. Make 26 Videos, Add correlating vid links, youtube embedded page. Not going to use an embedded youtube page, just a channel. Eventually videos will just be in a custom audio file, use youtube time sync for beta assistance, and make sure youtube audio has a time sync for sharing and etc.
 6. Make Custom Banners, under Modals AA 1.0, 1.1 and etc.
 7. Make custom Homepage banner.
-8. Add google voice page search on headnav bar.
-9. Inquisitor, v1 predicts and suggests which story the user should view.
+8. Add google voice page search on headnav bar, added need to get working in scaffold, works on http://codepen.io/peytoncaseria/pen/NxeKQq
+9. Inquisitor, v1 predicts and suggests which story the user should view, which then uses href download to specified file, if their answered are jumbled sends to download all.
 MVP ^^^
 
  v2 API needs to store data, so an account is needed? merge v1 & v2
