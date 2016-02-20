@@ -48,6 +48,7 @@ tomes.co added to peytoncaseria.com as project.
 7. Make custom Homepage banner.
 8. Add google voice page search on headnav bar, added need to get working in scaffold, works on http://codepen.io/peytoncaseria/pen/NxeKQq
 9. Inquisitor, v1 predicts and suggests which story the user should view, which then uses href download to specified file, if their answered are jumbled sends to download all.
+10. make Each Layer AA - ZZ have color attributes that carefully change in tone, make the letters have color and then the accordion bars bright light colors, and then the letters to be darker, have them match the banners.
 MVP ^^^
 
  v2 API needs to store data, so an account is needed? merge v1 & v2
